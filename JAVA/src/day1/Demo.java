@@ -11,7 +11,7 @@ public class Demo {
 		
 		a=s.nextInt();
 		b=s.nextInt();
-		Math.pow(a, b);
+		c=a*b;
 		System.out.println("add of a="+a+" and b="+b+" is:"+c+"");
 	}
 
